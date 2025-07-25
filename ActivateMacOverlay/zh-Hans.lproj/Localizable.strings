@@ -1,0 +1,12 @@
+"startOnLogin" = "登录时启动";
+"changeLabel" = "更改文本";
+"customLabel" = "自定义文本";
+"customLabelDescription" = "请输入自定义文本：";
+"confirm" = "确认";
+"cancel" = "取消";
+"about" = "关于";
+"aboutDescription" = "由 rafaelSwi 开发并发布在 GitHub 上";
+"exit" = "关闭程序";
+"windowsActivateTitle" = "激活 %@";
+"windowsActivateDescription" = "请前往设置以激活 %@。";
+"restart" = "重新启动";

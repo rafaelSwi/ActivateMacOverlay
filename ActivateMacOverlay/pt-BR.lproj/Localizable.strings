@@ -1,0 +1,12 @@
+"startOnLogin" = "Iniciar no login";
+"changeLabel" = "Mudar texto";
+"customLabel" = "Texto customizado";
+"customLabelDescription" = "Digite o sistema operacional que você \"supostamente\" precisa atualizar (Você precisará reiniciar o programa para aplicar):";
+"confirm" = "Confirmar";
+"cancel" = "Cancelar";
+"about" = "Sobre";
+"aboutDescription" = "Desenvolvido por rafaelSwi e publicado no GitHub";
+"exit" = "Fechar app";
+"windowsActivateTitle" = "Ativar o %@";
+"windowsActivateDescription" = "Acesse Configurações para ativar o %@.";
+"restart" = "Reiniciar app";

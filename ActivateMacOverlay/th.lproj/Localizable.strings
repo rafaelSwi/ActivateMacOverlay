@@ -1,0 +1,12 @@
+"startOnLogin" = "เริ่มต้นเมื่อเข้าสู่ระบบ";
+"changeLabel" = "เปลี่ยนข้อความ";
+"customLabel" = "ข้อความกำหนดเอง";
+"customLabelDescription" = "ป้อนข้อความกำหนดเอง:";
+"confirm" = "ยืนยัน";
+"cancel" = "ยกเลิก";
+"about" = "เกี่ยวกับ";
+"aboutDescription" = "พัฒนาโดย rafaelSwi และเผยแพร่บน GitHub";
+"exit" = "ปิดโปรแกรม";
+"windowsActivateTitle" = "เปิดใช้งาน %@";
+"windowsActivateDescription" = "ไปที่การตั้งค่าเพื่อเปิดใช้งาน %@";
+"restart" = "รีสตาร์ท";

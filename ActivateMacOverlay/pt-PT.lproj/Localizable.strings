@@ -1,0 +1,12 @@
+"startOnLogin" = "Iniciar na sessão";
+"changeLabel" = "Alterar texto";
+"customLabel" = "Texto personalizado";
+"customLabelDescription" = "(Terá de reiniciar depois) Escreva um texto personalizado:";
+"confirm" = "Confirmar";
+"cancel" = "Cancelar";
+"about" = "Sobre";
+"aboutDescription" = "Desenvolvido por rafaelSwi e publicado no GitHub";
+"exit" = "Fechar programa";
+"windowsActivateTitle" = "Ativar o %@";
+"windowsActivateDescription" = "Aceda a Definições para ativar o %@.";
+"restart" = "Reiniciar app";

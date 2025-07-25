@@ -1,0 +1,12 @@
+"startOnLogin" = "Starta vid inloggning";
+"changeLabel" = "Ändra text";
+"customLabel" = "Anpassad text";
+"customLabelDescription" = "Skriv in anpassad text:";
+"confirm" = "Bekräfta";
+"cancel" = "Avbryt";
+"about" = "Om";
+"aboutDescription" = "Utvecklad av rafaelSwi och publicerad på GitHub";
+"exit" = "Stäng programmet";
+"windowsActivateTitle" = "Aktivera %@";
+"windowsActivateDescription" = "Gå till Inställningar för att aktivera %@.";
+"restart" = "RESTART";

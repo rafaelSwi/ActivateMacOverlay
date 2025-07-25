@@ -1,0 +1,11 @@
+"startOnLogin" = "Start on login";
+"changeLabel" = "Change text";
+"customLabel" = "Custom text";
+"customLabelDescription" = "Enter custom text:";
+"confirm" = "Confirm";
+"cancel" = "Cancel";
+"about" = "About";
+"aboutDescription" = "Developed by rafaelSwi and published on GitHub";
+"exit" = "Close programme";
+"windowsActivateTitle" = "Activate %@";
+"windowsActivateDescription" = "Go to Settings to activate %@.";

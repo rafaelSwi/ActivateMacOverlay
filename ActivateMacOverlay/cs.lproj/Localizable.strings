@@ -1,0 +1,12 @@
+"startOnLogin" = "Spustit při přihlášení";
+"changeLabel" = "Změnit text";
+"customLabel" = "Vlastní text";
+"customLabelDescription" = "Zadejte vlastní text:";
+"confirm" = "Potvrdit";
+"cancel" = "Zrušit";
+"about" = "O aplikaci";
+"aboutDescription" = "Vyvinul rafaelSwi a zveřejnil na GitHubu";
+"exit" = "Ukončit program";
+"windowsActivateTitle" = "Aktivovat %@";
+"windowsActivateDescription" = "Přejděte do Nastavení\na aktivujte %@.";
+"restart" = "Restartovat";

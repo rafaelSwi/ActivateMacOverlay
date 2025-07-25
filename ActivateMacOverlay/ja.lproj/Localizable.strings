@@ -1,0 +1,12 @@
+"startOnLogin" = "ログイン時に起動";
+"changeLabel" = "テキストを変更";
+"customLabel" = "カスタムテキスト";
+"customLabelDescription" = "(その後再起動する必要があります) カスタムテキストを入力してください:";
+"confirm" = "確認";
+"cancel" = "キャンセル";
+"about" = "について";
+"aboutDescription" = "rafaelSwiによって開発され、GitHubに公開されました";
+"exit" = "プログラムを終了";
+"windowsActivateTitle" = "%@を有効にする";
+"windowsActivateDescription" = "%@を有効にするには設定にアクセスしてください。";
+"restart" = "再起動";

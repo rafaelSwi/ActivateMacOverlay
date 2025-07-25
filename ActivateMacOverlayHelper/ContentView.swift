@@ -1,6 +1,6 @@
 //
 //  ContentView.swift
-//  ActivateMacOverlay
+//  ActivateMacOverlayHelper
 //
 //  Created by Rafael Neuwirth Swierczynski on 25/07/25.
 //

@@ -1,0 +1,12 @@
+"startOnLogin" = "Uruchom przy logowaniu";
+"changeLabel" = "Zmień tekst";
+"customLabel" = "Niestandardowy tekst";
+"customLabelDescription" = "(Później będziesz musiał ponownie uruchomić) Wpisz niestandardowy tekst:";
+"confirm" = "Potwierdź";
+"cancel" = "Anuluj";
+"about" = "O programie";
+"aboutDescription" = "Stworzone przez rafaelSwi i opublikowane na GitHub";
+"exit" = "Zamknij program";
+"windowsActivateTitle" = "Włącz %@";
+"windowsActivateDescription" = "Przejdź do Ustawień, aby\nwłączyć %@.";
+"restart" = "Uruchom ponownie";

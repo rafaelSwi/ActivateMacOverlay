@@ -1,0 +1,12 @@
+"startOnLogin" = "लॉगिन पर शुरू करें";
+"changeLabel" = "टेक्स्ट बदलें";
+"customLabel" = "कस्टम टेक्स्ट";
+"customLabelDescription" = "कृपया कस्टम टेक्स्ट दर्ज करें:";
+"confirm" = "पुष्टि करें";
+"cancel" = "रद्द करें";
+"about" = "के बारे में";
+"aboutDescription" = "rafaelSwi द्वारा विकसित और GitHub पर प्रकाशित";
+"exit" = "प्रोग्राम बंद करें";
+"windowsActivateTitle" = "%@ को सक्रिय करें";
+"windowsActivateDescription" = "%@ को सक्रिय करने\nके लिए सेटिंग्स पर जाएं।";
+"restart" = "पुनरारंभ करें";

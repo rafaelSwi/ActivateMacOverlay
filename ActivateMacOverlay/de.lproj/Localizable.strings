@@ -1,0 +1,12 @@
+"startOnLogin" = "Beim Anmelden starten";
+"changeLabel" = "Text ändern";
+"customLabel" = "Benutzerdefinierter Text";
+"customLabelDescription" = "(Sie müssen anschließend neu starten) Geben Sie einen benutzerdefinierten Text ein:";
+"confirm" = "Bestätigen";
+"cancel" = "Abbrechen";
+"about" = "Über";
+"aboutDescription" = "Entwickelt von rafaelSwi und auf GitHub veröffentlicht";
+"exit" = "Programm schließen";
+"windowsActivateTitle" = "%@ aktivieren";
+"windowsActivateDescription" = "Gehe zu den Einstellungen,\num %@ zu aktivieren.";
+"restart" = "Neustart";

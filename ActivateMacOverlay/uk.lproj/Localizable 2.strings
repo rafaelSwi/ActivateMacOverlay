@@ -1,0 +1,12 @@
+"startOnLogin" = "Запуск при вході";
+"changeLabel" = "Змінити текст";
+"customLabel" = "Користувацький текст";
+"customLabelDescription" = "Введіть власний текст:";
+"confirm" = "Підтвердити";
+"cancel" = "Скасувати";
+"about" = "Про програму";
+"aboutDescription" = "Розроблено rafaelSwi і опубліковано на GitHub";
+"exit" = "Закрити програму";
+"windowsActivateTitle" = "Активувати %@";
+"windowsActivateDescription" = "Перейдіть до Налаштувань,\nщоб активувати %@.";
+"restart" = "Перезапустити";

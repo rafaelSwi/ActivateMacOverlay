@@ -9,9 +9,22 @@ import SwiftUI
 
 @main
 struct ActivateMacOverlayApp: App {
+    @NSApplicationDelegateAdaptor(AppDelegate.self) var appDelegate
+
     var body: some Scene {
-        WindowGroup {
-            ContentView()
+        Settings {
+            EmptyView()
         }
+    }
+}
+
+class AppDelegate: NSObject, NSApplicationDelegate {
+    var statusBarController: StatusBarController!
+    var overlayWindow: OverlayWindow!
+
+    func applicationDidFinishLaunching(_ notification: Notification) {
+        statusBarController = StatusBarController()
+        overlayWindow = OverlayWindow()
+        overlayWindow.show(message: UserDefaults.standard.string(forKey: "customOverlayText") ?? "macOS")
     }
 }

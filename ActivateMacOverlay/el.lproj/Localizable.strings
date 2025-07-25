@@ -1,0 +1,12 @@
+"startOnLogin" = "Έναρξη κατά την είσοδο";
+"changeLabel" = "Αλλαγή κειμένου";
+"customLabel" = "Προσαρμοσμένο κείμενο";
+"customLabelDescription" = "Εισάγετε προσαρμοσμένο κείμενο:";
+"confirm" = "Επιβεβαίωση";
+"cancel" = "Ακύρωση";
+"about" = "Πληροφορίες";
+"aboutDescription" = "Αναπτύχθηκε από τον rafaelSwi και δημοσιεύτηκε στο GitHub";
+"exit" = "Κλείσιμο προγράμματος";
+"windowsActivateTitle" = "Ενεργοποίηση του %@";
+"windowsActivateDescription" = "Μεταβείτε στις Ρυθμίσεις για\nνα ενεργοποιήσετε το %@.";
+"restart" = "Επανεκκίνηση";

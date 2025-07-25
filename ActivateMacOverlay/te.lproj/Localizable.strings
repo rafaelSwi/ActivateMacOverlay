@@ -1,0 +1,12 @@
+"startOnLogin" = "లాగిన్ సమయంలో ప్రారంభించండి";
+"changeLabel" = "టెక్స్ట్ మార్చండి";
+"customLabel" = "అనుకూల టెక్స్ట్";
+"customLabelDescription" = "దయచేసి అనుకూల టెక్స్ట్ నమోదు చేయండి:";
+"confirm" = "నిర్ధారించండి";
+"cancel" = "రద్దు చేయండి";
+"about" = "గురించి";
+"aboutDescription" = "rafaelSwi అభివృద్ధి చేసి GitHubలో ప్రచురించబడింది";
+"exit" = "ప్రోగ్రామ్ మూసివేయి";
+"windowsActivateTitle" = "%@ ను యాక్టివేట్ చేయండి";
+"windowsActivateDescription" = "%@ ను యాక్టివేట్ చేయడానికి\nసెట్టింగ్స్‌కి వెళ్లండి.";
+"restart" = "పునఃప్రారంభించు";

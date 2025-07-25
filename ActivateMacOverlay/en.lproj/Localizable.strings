@@ -1,0 +1,12 @@
+"startOnLogin" = "Start on login";
+"changeLabel" = "Change label";
+"customLabel" = "Custom Label";
+"customLabelDescription" = "Enter which O.S you supposedly need to activate! (You will need to restart afterwards to apply):";
+"confirm" = "Confirm";
+"cancel" = "Cancel";
+"about" = "About";
+"aboutDescription" = "Developed by rafaelSwi (GitHub)";
+"exit" = "Exit";
+"windowsActivateTitle" = "Activate %@";
+"windowsActivateDescription" = "Go to Settings to activate %@.";
+"restart" = "Restart";

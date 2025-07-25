@@ -1,0 +1,11 @@
+"startOnLogin" = "Girişte başlat";
+"changeLabel" = "Metni değiştir";
+"customLabel" = "Özel metin";
+"customLabelDescription" = "Özel bir metin girin:";
+"confirm" = "Onayla";
+"cancel" = "İptal";
+"about" = "Hakkında";
+"aboutDescription" = "rafaelSwi tarafından geliştirildi ve GitHub'da yayınlandı";
+"exit" = "Programı kapat";
+"windowsActivateTitle" = "%@ etkinleştir";
+"windowsActivateDescription" = "%@ etkinleştirmek için\nAyarlar'a gidin.";
