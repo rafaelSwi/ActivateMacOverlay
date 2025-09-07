@@ -7,6 +7,6 @@
 "about" = "O programie";
 "aboutDescription" = "Stworzone przez rafaelSwi i opublikowane na GitHub";
 "exit" = "Zamknij program";
-"windowsActivateTitle" = "Włącz %@";
-"windowsActivateDescription" = "Przejdź do Ustawień, aby\nwłączyć %@.";
+"windowsActivateTitle" = "Aktywuj %@";
+"windowsActivateDescription" = "Przejdź do Ustawień, aby\naktywować %@.";
 "restart" = "Uruchom ponownie";
