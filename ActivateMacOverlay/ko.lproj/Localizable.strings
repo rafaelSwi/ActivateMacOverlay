@@ -6,7 +6,7 @@
 "cancel" = "취소";
 "about" = "정보";
 "aboutDescription" = "rafaelSwi가 개발하고 GitHub에 게시함";
-"exit" = "프로그램 종료";
-"windowsActivateTitle" = "%@ 활성화";
-"windowsActivateDescription" = "설정에서 %@를 활성화하세요.";
-"restart" = "재시작";
+"exit" = "앱 종료";
+"windowsActivateTitle" = "%@ 정품 인증";
+"windowsActivateDescription" = "설정으로 이동하여 %@를 정품 인증합니다.";
+"restart" = "앱 재시작";
