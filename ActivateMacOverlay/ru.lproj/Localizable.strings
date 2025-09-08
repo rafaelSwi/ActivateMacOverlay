@@ -10,3 +10,4 @@
 "windowsActivateTitle" = "Активировать %@";
 "windowsActivateDescription" = "Перейдите в Настройки, чтобы\nактивировать %@.";
 "restart" = "Перезапустить";
+"forceEnglish" = "Английский";

@@ -10,6 +10,7 @@ import SwiftUI
 @main
 struct ActivateMacOverlayApp: App {
     @NSApplicationDelegateAdaptor(AppDelegate.self) var appDelegate
+    @AppStorage("forceEnglish") private var forceEnglish = false
 
     var body: some Scene {
         Settings {

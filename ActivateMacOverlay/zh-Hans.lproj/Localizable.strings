@@ -1,3 +1,6 @@
+// Thanks to user Vanadiry for helping with the Chinese translation!
+// 感谢使用 Vanadiry 来协助中文翻译！
+
 "startOnLogin" = "登录时启动";
 "changeLabel" = "更改文本";
 "customLabel" = "自定义文本";
@@ -10,3 +13,4 @@
 "windowsActivateTitle" = "激活 %@";
 "windowsActivateDescription" = "转到“设置”以激活 %@。";
 "restart" = "重启程序";
+"forceEnglish" = "强制使用英语";

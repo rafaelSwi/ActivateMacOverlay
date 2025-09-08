@@ -9,3 +9,4 @@
 "exit" = "Programı kapat";
 "windowsActivateTitle" = "%@ etkinleştir";
 "windowsActivateDescription" = "%@ etkinleştirmek için\nAyarlar'a gidin.";
+"forceEnglish" = "İngilizceyi zorla";

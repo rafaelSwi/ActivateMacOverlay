@@ -10,3 +10,4 @@
 "windowsActivateTitle" = "Ativar o %@";
 "windowsActivateDescription" = "Aceda a Definições para ativar o %@.";
 "restart" = "Reiniciar app";
+"forceEnglish" = "Forçar inglês";

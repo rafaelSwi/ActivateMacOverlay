@@ -1,3 +1,6 @@
+// Thanks to user Avstraliya for helping with the Polish translation!
+// Podziękowania dla użytkownika Avstraliya za pomoc w tłumaczeniu na język polski!
+
 "startOnLogin" = "Uruchom przy logowaniu";
 "changeLabel" = "Zmień tekst";
 "customLabel" = "Niestandardowy tekst";
@@ -10,3 +13,4 @@
 "windowsActivateTitle" = "Aktywuj %@";
 "windowsActivateDescription" = "Przejdź do Ustawień, aby\naktywować %@.";
 "restart" = "Uruchom ponownie";
+"forceEnglish" = "Angielski";

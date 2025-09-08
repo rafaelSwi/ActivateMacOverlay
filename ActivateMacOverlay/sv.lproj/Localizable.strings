@@ -10,3 +10,4 @@
 "windowsActivateTitle" = "Aktivera %@";
 "windowsActivateDescription" = "Gå till Inställningar för att aktivera %@.";
 "restart" = "RESTART";
+"forceEnglish" = "Tvinga engelska";

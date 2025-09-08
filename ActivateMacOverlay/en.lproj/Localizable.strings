@@ -10,3 +10,4 @@
 "windowsActivateTitle" = "Activate %@";
 "windowsActivateDescription" = "Go to Settings to activate %@.";
 "restart" = "Restart";
+"forceEnglish" = "Force English";

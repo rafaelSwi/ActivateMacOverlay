@@ -10,3 +10,4 @@
 "windowsActivateTitle" = "%@ को सक्रिय करें";
 "windowsActivateDescription" = "%@ को सक्रिय करने\nके लिए सेटिंग्स पर जाएं।";
 "restart" = "पुनरारंभ करें";
+"forceEnglish" = "अंग्रेज़ी लागू करें";

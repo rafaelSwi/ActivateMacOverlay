@@ -1,7 +1,7 @@
 "startOnLogin" = "Iniciar no login";
 "changeLabel" = "Mudar texto";
 "customLabel" = "Texto customizado";
-"customLabelDescription" = "Digite o sistema operacional que você \"supostamente\" precisa atualizar (Você precisará reiniciar o programa para aplicar):";
+"customLabelDescription" = "Digite o nome do S.O (Você precisará reiniciar o programa para aplicar):";
 "confirm" = "Confirmar";
 "cancel" = "Cancelar";
 "about" = "Sobre";
@@ -10,3 +10,4 @@
 "windowsActivateTitle" = "Ativar o %@";
 "windowsActivateDescription" = "Acesse Configurações para ativar o %@.";
 "restart" = "Reiniciar app";
+"forceEnglish" = "Forçar inglês";

@@ -10,3 +10,4 @@
 "windowsActivateTitle" = "Aktivovat %@";
 "windowsActivateDescription" = "Přejděte do Nastavení\na aktivujte %@.";
 "restart" = "Restartovat";
+"forceEnglish" = "Vynutit angličtinu";

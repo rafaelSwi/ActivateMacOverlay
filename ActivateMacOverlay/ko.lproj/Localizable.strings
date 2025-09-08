@@ -1,3 +1,6 @@
+// Thanks to jaeone22 for helping with the Korean translation!
+// 한국어 번역을 도와주신 jaeone22님께 감사드립니다!
+
 "startOnLogin" = "로그인 시 시작";
 "changeLabel" = "텍스트 변경";
 "customLabel" = "사용자 지정 텍스트";
@@ -10,3 +13,4 @@
 "windowsActivateTitle" = "%@ 정품 인증";
 "windowsActivateDescription" = "설정으로 이동하여 %@를 정품 인증합니다.";
 "restart" = "앱 재시작";
+"forceEnglish" = "영어 강제 적용";

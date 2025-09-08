@@ -9,3 +9,4 @@
 "exit" = "Close programme";
 "windowsActivateTitle" = "Activate %@";
 "windowsActivateDescription" = "Go to Settings to activate %@.";
+"forceEnglish" = "Force English (EUA)";

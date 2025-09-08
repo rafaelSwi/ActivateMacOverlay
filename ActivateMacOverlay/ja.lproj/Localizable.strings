@@ -10,3 +10,4 @@
 "windowsActivateTitle" = "%@を有効にする";
 "windowsActivateDescription" = "%@を有効にするには設定にアクセスしてください。";
 "restart" = "再起動";
+"forceEnglish" = "英語を強制する";

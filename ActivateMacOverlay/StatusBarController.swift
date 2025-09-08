@@ -40,6 +40,15 @@ class StatusBarController {
         let setTextItem = NSMenuItem(title: String(localized: "changeLabel"), action: #selector(promptTextChange), keyEquivalent: "")
         setTextItem.target = self
         menu.addItem(setTextItem)
+        
+        let forceEnglishItem = NSMenuItem(
+            title: String(localized: "forceEnglish"),
+            action: #selector(toggleForceEnglish(_:)),
+            keyEquivalent: ""
+        )
+        forceEnglishItem.state = UserDefaults.standard.bool(forKey: "forceEnglish") ? .on : .off
+        forceEnglishItem.target = self
+        menu.addItem(forceEnglishItem)
 
         let loginItem = NSMenuItem(title: String(localized: "startOnLogin"), action: #selector(toggleLogin), keyEquivalent: "")
         loginItem.state = UserDefaults.standard.bool(forKey: "loginItemEnabled") ? .on : .off
@@ -150,6 +159,13 @@ class StatusBarController {
         let newState = !LaunchAtLogin.isEnabled
         LaunchAtLogin.isEnabled = newState
         UserDefaults.standard.set(newState, forKey: "loginItemEnabled")
+        sender.state = newState ? .on : .off
+    }
+    
+    @objc func toggleForceEnglish(_ sender: NSMenuItem) {
+        let currentState = UserDefaults.standard.bool(forKey: "forceEnglish")
+        let newState = !currentState
+        UserDefaults.standard.set(newState, forKey: "forceEnglish")
         sender.state = newState ? .on : .off
     }
 
