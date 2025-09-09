@@ -158,10 +158,12 @@ class StatusBarController {
 
         let titleInput = NSTextField(string: UserDefaults.standard.string(forKey: UserDefaults.Keys.titleReplace) ?? "")
         titleInput.translatesAutoresizingMaskIntoConstraints = false
+        titleInput.placeholderString = String(localized: "insertTopText")
         titleInput.widthAnchor.constraint(equalToConstant: 250).isActive = true
         
         let descriptionInput = NSTextField(string: UserDefaults.standard.string(forKey: UserDefaults.Keys.descriptionReplace) ?? "")
         descriptionInput.translatesAutoresizingMaskIntoConstraints = false
+        descriptionInput.placeholderString = String(localized: "insertBottomText")
         descriptionInput.widthAnchor.constraint(equalToConstant: 250).isActive = true
 
         let container = NSStackView(views: [titleInput, descriptionInput])
@@ -244,6 +246,7 @@ class StatusBarController {
         UserDefaults.standard.set(newState, forKey: UserDefaults.Keys.forceEnglish)
         UserDefaults.standard.set(false, forKey: UserDefaults.Keys.replace)
         sender.state = newState ? .on : .off
+        restartApp()
     }
 
     @objc func quitApp() {
