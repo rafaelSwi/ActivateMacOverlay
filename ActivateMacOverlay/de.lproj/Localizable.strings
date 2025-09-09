@@ -6,11 +6,11 @@
 "cancel" = "Abbrechen";
 "about" = "Über";
 "aboutDescription" = "Entwickelt von rafaelSwi und auf GitHub veröffentlicht";
-"exit" = "Programm schließen";
+"exit" = "Verlassen";
 "windowsActivateTitle" = "%@ aktivieren";
 "windowsActivateDescription" = "Gehe zu den Einstellungen,\num %@ zu aktivieren.";
 "restart" = "Neustart";
-"forceEnglish" = "Englisch";
+"forceEnglish" = "Nur englisch";
 "replaceText" = "Gesamten Text ersetzen";
 "replaceTextDescription" = "Ändert den gesamten auf dem Bildschirm angezeigten Text (Neustart erforderlich):";
 "insertTopText" = "Geben Sie den oberen Text ein";

@@ -47,6 +47,13 @@ class StatusBarController {
         
         menu.addItem(NSMenuItem.separator())
         
+        func isAppLanguageNotEnglish() -> Bool {
+            if let languageCode = Bundle.main.preferredLocalizations.first {
+                return !languageCode.hasPrefix("en")
+            }
+            return true
+        }
+
         let forceEnglishItem = NSMenuItem(
             title: String(localized: "forceEnglish"),
             action: #selector(toggleForceEnglish(_:)),
@@ -54,7 +61,10 @@ class StatusBarController {
         )
         forceEnglishItem.state = UserDefaults.standard.bool(forKey: UserDefaults.Keys.forceEnglish) ? .on : .off
         forceEnglishItem.target = self
-        menu.addItem(forceEnglishItem)
+        if (isAppLanguageNotEnglish()) {
+            menu.addItem(forceEnglishItem)
+        }
+        
 
         let loginItem = NSMenuItem(title: String(localized: "startOnLogin"), action: #selector(toggleLogin), keyEquivalent: "")
         loginItem.state = UserDefaults.standard.bool(forKey: "loginItemEnabled") ? .on : .off
@@ -207,7 +217,7 @@ class StatusBarController {
         case .alertThirdButtonReturn:
             UserDefaults.standard.set("", forKey: UserDefaults.Keys.titleReplace)
             UserDefaults.standard.set("", forKey: UserDefaults.Keys.descriptionReplace)
-            UserDefaults.standard.set("", forKey: UserDefaults.Keys.customOverlayText)
+            UserDefaults.standard.set("macOS", forKey: UserDefaults.Keys.customOverlayText)
             UserDefaults.standard.set(false, forKey: UserDefaults.Keys.replace)
             
             NSApp.delegate.map {

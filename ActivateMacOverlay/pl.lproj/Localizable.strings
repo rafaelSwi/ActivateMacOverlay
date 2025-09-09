@@ -9,11 +9,11 @@
 "cancel" = "Anuluj";
 "about" = "O programie";
 "aboutDescription" = "Stworzone przez rafaelSwi i opublikowane na GitHub";
-"exit" = "Zamknij program";
+"exit" = "Wyjście";
 "windowsActivateTitle" = "Aktywuj %@";
 "windowsActivateDescription" = "Przejdź do Ustawień, aby\naktywować %@.";
-"restart" = "Uruchom ponownie";
-"forceEnglish" = "Angielski";
+"restart" = "Restartuj";
+"forceEnglish" = "Wymuś angielski";
 "replaceText" = "Zastąp cały tekst";
 "replaceTextDescription" = "Zmienia całą zawartość tekstową wyświetlaną na ekranie (wymaga ponownego uruchomienia):";
 "insertTopText" = "Wprowadź tekst górny";

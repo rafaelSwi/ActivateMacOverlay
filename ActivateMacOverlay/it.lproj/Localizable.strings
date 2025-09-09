@@ -6,7 +6,7 @@
 "cancel" = "Annulla";
 "about" = "Informazioni";
 "aboutDescription" = "Sviluppato da rafaelSwi e pubblicato su GitHub";
-"exit" = "Chiudi programma";
+"exit" = "Terminare";
 "windowsActivateTitle" = "Attiva %@";
 "windowsActivateDescription" = "Vai su Impostazioni per attivare %@.";
 "restart" = "Riavvia";

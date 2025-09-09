@@ -6,10 +6,10 @@
 "cancel" = "Cancelar";
 "about" = "Sobre";
 "aboutDescription" = "Desenvolvido por rafaelSwi e publicado no GitHub";
-"exit" = "Fechar app";
+"exit" = "Fechar";
 "windowsActivateTitle" = "Ativar o %@";
 "windowsActivateDescription" = "Acesse Configurações para ativar o %@.";
-"restart" = "Reiniciar app";
+"restart" = "Reiniciar";
 "forceEnglish" = "Forçar inglês";
 "replaceText" = "Substituir texto inteiro";
 "replaceTextDescription" = "Altera todo o conteúdo de texto exibido de texto na tela (necessário reiniciar para aplicar):";
