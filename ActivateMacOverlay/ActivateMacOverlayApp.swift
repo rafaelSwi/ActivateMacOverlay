@@ -10,8 +10,8 @@ import SwiftUI
 @main
 struct ActivateMacOverlayApp: App {
     @NSApplicationDelegateAdaptor(AppDelegate.self) var appDelegate
-    @AppStorage("forceEnglish") private var forceEnglish = false
-
+    @AppStorage(UserDefaults.Keys.forceEnglish) private var forceEnglish = false
+    
     var body: some Scene {
         Settings {
             EmptyView()
@@ -22,10 +22,21 @@ struct ActivateMacOverlayApp: App {
 class AppDelegate: NSObject, NSApplicationDelegate {
     var statusBarController: StatusBarController!
     var overlayWindow: OverlayWindow!
-
+    
     func applicationDidFinishLaunching(_ notification: Notification) {
         statusBarController = StatusBarController()
         overlayWindow = OverlayWindow()
-        overlayWindow.show(message: UserDefaults.standard.string(forKey: "customOverlayText") ?? "macOS")
+        let replace: Bool = UserDefaults.standard.bool(forKey: UserDefaults.Keys.replace);
+        if (replace) {
+            overlayWindow.show(
+                message: UserDefaults.standard.string(forKey: UserDefaults.Keys.customOverlayText) ?? "macOS",
+                replace: Replace(
+                    title: UserDefaults.standard.string(forKey: UserDefaults.Keys.titleReplace) ?? "EMPTY_TITLE",
+                    description: UserDefaults.standard.string(forKey: UserDefaults.Keys.descriptionReplace) ?? "EMPTY_DESCRIPTION"
+                )
+            )
+        } else {
+            overlayWindow.show(message: UserDefaults.standard.string(forKey: UserDefaults.Keys.customOverlayText) ?? "macOS", replace: nil)
+        }
     }
 }

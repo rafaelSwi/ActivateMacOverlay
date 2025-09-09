@@ -11,5 +11,9 @@ extension UserDefaults {
     enum Keys {
         static let customOverlayText = "customOverlayText"
         static let loginItemEnabled = "loginItemEnabled"
+        static let titleReplace = "titleReplace"
+        static let descriptionReplace = "descriptionReplace"
+        static let forceEnglish = "forceEnglish"
+        static let replace = "replace"
     }
 }

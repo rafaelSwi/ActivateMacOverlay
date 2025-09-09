@@ -1,5 +1,5 @@
 "startOnLogin" = "Beim Anmelden starten";
-"changeLabel" = "Text ändern";
+"changeLabel" = "Systemnamen ändern";
 "customLabel" = "Benutzerdefinierter Text";
 "customLabelDescription" = "(Sie müssen anschließend neu starten) Geben Sie einen benutzerdefinierten Text ein:";
 "confirm" = "Bestätigen";
@@ -11,3 +11,8 @@
 "windowsActivateDescription" = "Gehe zu den Einstellungen,\num %@ zu aktivieren.";
 "restart" = "Neustart";
 "forceEnglish" = "Englisch";
+"replaceText" = "Gesamten Text ersetzen";
+"replaceTextDescription" = "Ändert den gesamten auf dem Bildschirm angezeigten Text (Neustart erforderlich):";
+"insertTopText" = "Geben Sie den oberen Text ein";
+"insertBottomText" = "Geben Sie den unteren Text ein";
+"disableReplace" = "Deaktivieren (zurück zum Standard)";

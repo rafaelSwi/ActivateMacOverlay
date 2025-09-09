@@ -1,5 +1,5 @@
 "startOnLogin" = "Iniciar no login";
-"changeLabel" = "Mudar texto";
+"changeLabel" = "Mudar nome do O.S";
 "customLabel" = "Texto customizado";
 "customLabelDescription" = "Digite o nome do S.O (Você precisará reiniciar o programa para aplicar):";
 "confirm" = "Confirmar";
@@ -11,3 +11,8 @@
 "windowsActivateDescription" = "Acesse Configurações para ativar o %@.";
 "restart" = "Reiniciar app";
 "forceEnglish" = "Forçar inglês";
+"replaceText" = "Substituir texto inteiro";
+"replaceTextDescription" = "Altera todo o conteúdo de texto exibido de texto na tela (necessário reiniciar para aplicar):";
+"insertTopText" = "Digite o texto superior";
+"insertBottomText" = "Digite o texto inferior";
+"disableReplace" = "Desabilitar (voltar ao padrão)";

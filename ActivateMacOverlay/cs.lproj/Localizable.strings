@@ -1,5 +1,5 @@
 "startOnLogin" = "Spustit při přihlášení";
-"changeLabel" = "Změnit text";
+"changeLabel" = "Změnit název systému";
 "customLabel" = "Vlastní text";
 "customLabelDescription" = "Zadejte vlastní text:";
 "confirm" = "Potvrdit";
@@ -11,3 +11,8 @@
 "windowsActivateDescription" = "Přejděte do Nastavení\na aktivujte %@.";
 "restart" = "Restartovat";
 "forceEnglish" = "Vynutit angličtinu";
+"replaceText" = "Nahradit celý text";
+"replaceTextDescription" = "Změní veškerý text zobrazený na obrazovce (pro použití je nutné restartovat):";
+"insertTopText" = "Zadejte horní text";
+"insertBottomText" = "Zadejte dolní text";
+"disableReplace" = "Zakázat (vrátit na výchozí)";

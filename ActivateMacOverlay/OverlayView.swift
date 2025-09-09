@@ -9,15 +9,17 @@ import SwiftUI
 
 struct OverlayView: View {
     var customText: String
+    var replace: Replace?
 
     var body: some View {
         VStack(alignment: .leading, spacing: 4) {
             
-            let forceEnglish = UserDefaults.standard.bool(forKey: "forceEnglish")
+            let forceEnglish = UserDefaults.standard.bool(forKey: UserDefaults.Keys.forceEnglish)
             
             let translatedTitle = String(format: NSLocalizedString("windowsActivateTitle", comment: ""), customText)
             let englishTitle = "Activate \(customText)";
-            let title = forceEnglish ? englishTitle : translatedTitle
+            let stockTitle = forceEnglish ? englishTitle : translatedTitle
+            let title = replace == nil ? stockTitle : replace?.title ?? "EMPTY_TITLE"
             
             Text(title)
                 .font(.system(size: 19.5))
@@ -25,7 +27,8 @@ struct OverlayView: View {
             
             let translatedDescription = String(format: NSLocalizedString("windowsActivateDescription", comment: ""), customText);
             let englishDescription = "Go to Settings to activate \(customText).";
-            let description = forceEnglish ? englishDescription : translatedDescription;
+            let stockDescription = forceEnglish ? englishDescription : translatedDescription;
+            let description = replace == nil ? stockDescription : replace?.description ?? "EMPTY_DESCRIPTION"
             
 
             Text(description)

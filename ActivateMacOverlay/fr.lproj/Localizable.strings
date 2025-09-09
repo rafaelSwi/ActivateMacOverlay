@@ -1,5 +1,5 @@
 "startOnLogin" = "Démarrer à la connexion";
-"changeLabel" = "Changer le texte";
+"changeLabel" = "Changer le nom du système";
 "customLabel" = "Texte personnalisé";
 "customLabelDescription" = "(Vous devrez redémarrer ensuite) Entrez un texte personnalisé :";
 "confirm" = "Confirmer";
@@ -11,3 +11,8 @@
 "windowsActivateDescription" = "Accédez aux Paramètres pour activer %@.";
 "restart" = "Redémarrer";
 "forceEnglish" = "Forcer l’anglais";
+"replaceText" = "Remplacer tout le texte";
+"replaceTextDescription" = "Modifie tout le contenu textuel affiché à l'écran (redémarrage nécessaire):";
+"insertTopText" = "Entrez le texte du haut";
+"insertBottomText" = "Entrez le texte du bas";
+"disableReplace" = "Désactiver (retour par défaut)";

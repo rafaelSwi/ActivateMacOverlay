@@ -1,5 +1,5 @@
 "startOnLogin" = "Start on login";
-"changeLabel" = "Change text";
+"changeLabel" = "Change O.S name";
 "customLabel" = "Custom text";
 "customLabelDescription" = "Enter custom text:";
 "confirm" = "Confirm";
@@ -9,4 +9,9 @@
 "exit" = "Close programme";
 "windowsActivateTitle" = "Activate %@";
 "windowsActivateDescription" = "Go to Settings to activate %@.";
-"forceEnglish" = "Force English (EUA)";
+"forceEnglish" = "Force english (EUA)";
+"replaceText" = "Replace entire text";
+"replaceTextDescription" = "Changes all the text content displayed on the screen (you need to restart to apply):";
+"insertTopText" = "Enter top text";
+"insertBottomText" = "Enter bottom text";
+"disableReplace" = "Disable (return to default)";

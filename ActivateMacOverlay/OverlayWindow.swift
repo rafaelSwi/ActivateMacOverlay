@@ -11,10 +11,10 @@ import SwiftUI
 class OverlayWindow {
     private var window: NSWindow?
 
-    func show(message: String) {
+    func show(message: String, replace: Replace?) {
         if window == nil {
             let width: CGFloat = 370
-            let view = NSHostingView(rootView: OverlayView(customText: message))
+            let view = NSHostingView(rootView: OverlayView(customText: message, replace: replace))
             view.frame.size.width = width
 
             let fittingSize = view.fittingSize

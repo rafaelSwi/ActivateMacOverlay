@@ -1,5 +1,5 @@
 "startOnLogin" = "Iniciar al iniciar sesión";
-"changeLabel" = "Cambiar texto";
+"changeLabel" = "Cambiar el nombre del O.S";
 "customLabel" = "Texto personalizado";
 "customLabelDescription" = "(Necesitarás reiniciar después) Escribe un texto personalizado:";
 "confirm" = "Confirmar";
@@ -11,3 +11,8 @@
 "windowsActivateDescription" = "Ve a Configuración para activar %@.";
 "restart" = "Reiniciar programa";
 "forceEnglish" = "Forzar inglés";
+"replaceText" = "Reemplazar todo el texto";
+"replaceTextDescription" = "Cambia todo el contenido de texto que se muestra en la pantalla (debe reiniciar para aplicar):";
+"insertTopText" = "Ingrese el texto superior";
+"insertBottomText" = "Ingrese el texto inferior";
+"disableReplace" = "Desactivar (volver al predeterminado)";

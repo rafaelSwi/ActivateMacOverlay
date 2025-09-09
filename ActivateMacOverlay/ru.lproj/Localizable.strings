@@ -1,5 +1,5 @@
 "startOnLogin" = "Запускать при входе";
-"changeLabel" = "Изменить текст";
+"changeLabel" = "Изменить имя системы";
 "customLabel" = "Пользовательский текст";
 "customLabelDescription" = "Введите пользовательский текст:";
 "confirm" = "Подтвердить";
@@ -11,3 +11,8 @@
 "windowsActivateDescription" = "Перейдите в Настройки, чтобы\nактивировать %@.";
 "restart" = "Перезапустить";
 "forceEnglish" = "Английский";
+"replaceText" = "Заменить весь текст";
+"replaceTextDescription" = "Изменяет весь текст, отображаемый на экране (необходимо перезапустить для применения)";
+"insertTopText" = "Введите верхний текст";
+"insertBottomText" = "Введите нижний текст";
+"disableReplace" = "Отключить (вернуться к умолчанию)";

@@ -2,7 +2,7 @@
 // 感谢使用 Vanadiry 来协助中文翻译！
 
 "startOnLogin" = "登录时启动";
-"changeLabel" = "更改文本";
+"changeLabel" = "更改系统名称";
 "customLabel" = "自定义文本";
 "customLabelDescription" = "请输入自定义文本：";
 "confirm" = "确认";
@@ -14,3 +14,8 @@
 "windowsActivateDescription" = "转到“设置”以激活 %@。";
 "restart" = "重启程序";
 "forceEnglish" = "强制使用英语";
+"replaceText" = "替换全部文本";
+"replaceTextDescription" = "更改屏幕上显示的所有文本内容（需要重启以应用）";
+"insertTopText" = "输入顶部文本";
+"insertBottomText" = "输入底部文本";
+"disableReplace" = "禁用（恢复默认）";

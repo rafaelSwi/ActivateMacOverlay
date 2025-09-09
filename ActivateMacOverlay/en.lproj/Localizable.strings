@@ -1,5 +1,5 @@
 "startOnLogin" = "Start on login";
-"changeLabel" = "Change label";
+"changeLabel" = "Change O.S name";
 "customLabel" = "Custom Label";
 "customLabelDescription" = "Enter which O.S you supposedly need to activate! (You will need to restart afterwards to apply):";
 "confirm" = "Confirm";
@@ -10,4 +10,9 @@
 "windowsActivateTitle" = "Activate %@";
 "windowsActivateDescription" = "Go to Settings to activate %@.";
 "restart" = "Restart";
-"forceEnglish" = "Force English";
+"forceEnglish" = "Force english";
+"replaceText" = "Replace entire text";
+"replaceTextDescription" = "Changes all the text content displayed on the screen (you need to restart to apply):";
+"insertTopText" = "Enter the top text";
+"insertBottomText" = "Enter the bottom text";
+"disableReplace" = "Disable (return to default)";

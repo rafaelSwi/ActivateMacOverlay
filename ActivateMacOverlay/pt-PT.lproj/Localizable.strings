@@ -1,5 +1,5 @@
 "startOnLogin" = "Iniciar na sessão";
-"changeLabel" = "Alterar texto";
+"changeLabel" = "Alterar nome do O.S";
 "customLabel" = "Texto personalizado";
 "customLabelDescription" = "(Terá de reiniciar depois) Escreva um texto personalizado:";
 "confirm" = "Confirmar";
@@ -11,3 +11,8 @@
 "windowsActivateDescription" = "Aceda a Definições para ativar o %@.";
 "restart" = "Reiniciar app";
 "forceEnglish" = "Forçar inglês";
+"replaceText" = "Substituir todo o texto";
+"replaceTextDescription" = "Altera todo o conteúdo de texto apresentado no ecrã (é necessário reiniciar para aplicar):";
+"insertTopText" = "Introduza o texto superior";
+"insertBottomText" = "Introduza o texto inferior";
+"disableReplace" = "Desativar (voltar ao padrão)";

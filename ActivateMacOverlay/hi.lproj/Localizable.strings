@@ -1,5 +1,5 @@
 "startOnLogin" = "लॉगिन पर शुरू करें";
-"changeLabel" = "टेक्स्ट बदलें";
+"changeLabel" = "सिस्टम का नाम बदलें";
 "customLabel" = "कस्टम टेक्स्ट";
 "customLabelDescription" = "कृपया कस्टम टेक्स्ट दर्ज करें:";
 "confirm" = "पुष्टि करें";
@@ -11,3 +11,8 @@
 "windowsActivateDescription" = "%@ को सक्रिय करने\nके लिए सेटिंग्स पर जाएं।";
 "restart" = "पुनरारंभ करें";
 "forceEnglish" = "अंग्रेज़ी लागू करें";
+"replaceText" = "संपूर्ण पाठ बदलें";
+"replaceTextDescription" = "स्क्रीन पर दिखाई देने वाले सभी पाठ को बदलता है (लागू करने के लिए पुनः आरंभ करें)";
+"insertTopText" = "ऊपरी पाठ दर्ज करें";
+"insertBottomText" = "निचला पाठ दर्ज करें";
+"disableReplace" = "अक्षम करें (डिफ़ॉल्ट पर लौटें)";

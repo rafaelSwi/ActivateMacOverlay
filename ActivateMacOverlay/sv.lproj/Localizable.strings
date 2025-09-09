@@ -1,5 +1,5 @@
 "startOnLogin" = "Starta vid inloggning";
-"changeLabel" = "Ändra text";
+"changeLabel" = "Ändra systemnamn";
 "customLabel" = "Anpassad text";
 "customLabelDescription" = "Skriv in anpassad text:";
 "confirm" = "Bekräfta";
@@ -11,3 +11,8 @@
 "windowsActivateDescription" = "Gå till Inställningar för att aktivera %@.";
 "restart" = "RESTART";
 "forceEnglish" = "Tvinga engelska";
+"replaceText" = "Ersätt hela texten";
+"replaceTextDescription" = "Ändrar allt textinnehåll som visas på skärmen (du måste starta om för att tillämpa)";
+"insertTopText" = "Ange översta texten";
+"insertBottomText" = "Ange nedersta texten";
+"disableReplace" = "Inaktivera (återgå till standard)";

@@ -1,5 +1,5 @@
 "startOnLogin" = "เริ่มต้นเมื่อเข้าสู่ระบบ";
-"changeLabel" = "เปลี่ยนข้อความ";
+"changeLabel" = "เปลี่ยนชื่อระบบ";
 "customLabel" = "ข้อความกำหนดเอง";
 "customLabelDescription" = "ป้อนข้อความกำหนดเอง:";
 "confirm" = "ยืนยัน";
@@ -11,3 +11,8 @@
 "windowsActivateDescription" = "ไปที่การตั้งค่าเพื่อเปิดใช้งาน %@";
 "restart" = "รีสตาร์ท";
 "forceEnglish" = "บังคับภาษาอังกฤษ";
+"replaceText" = "แทนที่ข้อความทั้งหมด";
+"replaceTextDescription" = "เปลี่ยนเนื้อหาข้อความทั้งหมดที่แสดงบนหน้าจอ (ต้องรีสตาร์ทเพื่อใช้)";
+"insertTopText" = "ป้อนข้อความด้านบน";
+"insertBottomText" = "ป้อนข้อความด้านล่าง";
+"disableReplace" = "ปิดใช้งาน (กลับไปค่าเริ่มต้น)";

@@ -1,8 +1,7 @@
-// Thanks to jaeone22 for helping with the Korean translation!
-// 한국어 번역을 도와주신 jaeone22님께 감사드립니다!
+// Thanks to jaeone22 & devuterian for helping with the Korean translation!
 
 "startOnLogin" = "로그인 시 시작";
-"changeLabel" = "텍스트 변경";
+"changeLabel" = "시스템 이름 변경";
 "customLabel" = "사용자 지정 텍스트";
 "customLabelDescription" = "사용자 지정 텍스트를 입력하세요:";
 "confirm" = "확인";
@@ -11,6 +10,11 @@
 "aboutDescription" = "rafaelSwi가 개발하고 GitHub에 게시함";
 "exit" = "앱 종료";
 "windowsActivateTitle" = "%@ 정품 인증";
-"windowsActivateDescription" = "설정으로 이동하여 %@를 정품 인증합니다.";
+"windowsActivateDescription" = "[설정]으로 이동하여 %@를 정품 인증합니다.";
 "restart" = "앱 재시작";
 "forceEnglish" = "영어 강제 적용";
+"replaceText" = "전체 텍스트 교체";
+"replaceTextDescription" = "화면에 표시된 모든 텍스트 내용을 변경합니다 (적용하려면 재시작 필요)";
+"insertTopText" = "상단 텍스트 입력";
+"insertBottomText" = "하단 텍스트 입력";
+"disableReplace" = "비활성화 (기본값으로 복원)";

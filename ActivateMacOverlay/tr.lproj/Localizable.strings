@@ -1,5 +1,5 @@
 "startOnLogin" = "Girişte başlat";
-"changeLabel" = "Metni değiştir";
+"changeLabel" = "Sistem adını değiştir";
 "customLabel" = "Özel metin";
 "customLabelDescription" = "Özel bir metin girin:";
 "confirm" = "Onayla";
@@ -10,3 +10,8 @@
 "windowsActivateTitle" = "%@ etkinleştir";
 "windowsActivateDescription" = "%@ etkinleştirmek için\nAyarlar'a gidin.";
 "forceEnglish" = "İngilizceyi zorla";
+"replaceText" = "Tüm metni değiştir";
+"replaceTextDescription" = "Ekranda gösterilen tüm metin içeriğini değiştirir (uygulamak için yeniden başlatmanız gerekir)";
+"insertTopText" = "Üst metni girin";
+"insertBottomText" = "Alt metni girin";
+"disableReplace" = "Devre dışı bırak (varsayılana dön)";

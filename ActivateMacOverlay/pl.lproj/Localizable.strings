@@ -2,7 +2,7 @@
 // Podziękowania dla użytkownika Avstraliya za pomoc w tłumaczeniu na język polski!
 
 "startOnLogin" = "Uruchom przy logowaniu";
-"changeLabel" = "Zmień tekst";
+"changeLabel" = "Zmień nazwę systemu";
 "customLabel" = "Niestandardowy tekst";
 "customLabelDescription" = "(Później będziesz musiał ponownie uruchomić) Wpisz niestandardowy tekst:";
 "confirm" = "Potwierdź";
@@ -14,3 +14,8 @@
 "windowsActivateDescription" = "Przejdź do Ustawień, aby\naktywować %@.";
 "restart" = "Uruchom ponownie";
 "forceEnglish" = "Angielski";
+"replaceText" = "Zastąp cały tekst";
+"replaceTextDescription" = "Zmienia całą zawartość tekstową wyświetlaną na ekranie (wymaga ponownego uruchomienia):";
+"insertTopText" = "Wprowadź tekst górny";
+"insertBottomText" = "Wprowadź tekst dolny";
+"disableReplace" = "Wyłącz (przywróć domyślne)";

@@ -1,5 +1,5 @@
 "startOnLogin" = "Avvia all'accesso";
-"changeLabel" = "Cambia testo";
+"changeLabel" = "Cambia il nome del O.S";
 "customLabel" = "Testo personalizzato";
 "customLabelDescription" = "(Sarà necessario riavviare in seguito) Inserisci un testo personalizzato:";
 "confirm" = "Conferma";
@@ -11,3 +11,8 @@
 "windowsActivateDescription" = "Vai su Impostazioni per attivare %@.";
 "restart" = "Riavvia";
 "forceEnglish" = "Forza inglese";
+"replaceText" = "Sostituisci tutto il testo";
+"replaceTextDescription" = "Modifica tutto il contenuto testuale visualizzato sullo schermo (è necessario riavviare per applicare)";
+"insertTopText" = "Inserisci il testo superiore";
+"insertBottomText" = "Inserisci il testo inferiore";
+"disableReplace" = "Disattiva (ritorna al predefinito)";

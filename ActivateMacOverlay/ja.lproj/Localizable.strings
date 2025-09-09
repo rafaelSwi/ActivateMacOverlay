@@ -1,5 +1,5 @@
 "startOnLogin" = "ログイン時に起動";
-"changeLabel" = "テキストを変更";
+"changeLabel" = "システム名を変更する";
 "customLabel" = "カスタムテキスト";
 "customLabelDescription" = "(その後再起動する必要があります) カスタムテキストを入力してください:";
 "confirm" = "確認";
@@ -11,3 +11,8 @@
 "windowsActivateDescription" = "%@を有効にするには設定にアクセスしてください。";
 "restart" = "再起動";
 "forceEnglish" = "英語を強制する";
+"replaceText" = "全文を置き換える";
+"replaceTextDescription" = "画面に表示されているすべてのテキストを変更します（適用するには再起動が必要です）";
+"insertTopText" = "上のテキストを入力";
+"insertBottomText" = "下のテキストを入力";
+"disableReplace" = "無効にする（デフォルトに戻す）";
